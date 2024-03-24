@@ -22,8 +22,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
-sistema-smart-tv/src/Usuario.java
-sistema-smart-tv/src/SmartTv.java
-sistema-smart-tv/.vscode/settings.json
-sistema-smart-tv/README.md
